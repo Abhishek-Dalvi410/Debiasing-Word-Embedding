@@ -7,7 +7,7 @@ _**-T Bolukbasi, KW Chang, JY Zou, V Saligrama, AT Kalai - Advances in neural in
 
 https://drive.google.com/file/d/1G59RLXTakURUn9nBDkKddXRA1i-c2IQR/view?usp=sharing
 
-Use the above link to download the pickled biased and de-biased word embeddings. The word embeddings have been formatted appropriately to be used in the tensorboard embedding projector  
+Use the above link to download the pickled biased and de-biased word embeddings. The word embeddings have been formatted in such a way that they are compatible with the tensorboard embedding projector.
 
 Commands to visualize:-
 1. tensorboard --logdir runs/biased
