@@ -5,6 +5,10 @@
 **Man is to computer programmer as woman is to homemaker? debiasing word embeddings**
 _**-T Bolukbasi, KW Chang, JY Zou, V Saligrama, AT Kalai - Advances in neural information processing systems, 2016**_
 
+https://drive.google.com/file/d/1G59RLXTakURUn9nBDkKddXRA1i-c2IQR/view?usp=sharing
+
+Use the above link to download the pickled biased and de-biased word embeddings. The word embeddings have been formatted appropriately to be used in the tensorboard embedding projector  
+
 Commands to visualize:-
 1. tensorboard --logdir runs/biased
 2. tensorboard --logdir runs/debiased --port=8080
